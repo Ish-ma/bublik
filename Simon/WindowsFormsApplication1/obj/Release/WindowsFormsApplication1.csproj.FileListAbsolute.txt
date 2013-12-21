@@ -1,0 +1,9 @@
+C:\Users\Марат\Documents\Учеба\Bublik\bublik\Simon\WindowsFormsApplication1\bin\Release\Simon v0.9.exe.config
+C:\Users\Марат\Documents\Учеба\Bublik\bublik\Simon\WindowsFormsApplication1\bin\Release\Simon v0.9.exe
+C:\Users\Марат\Documents\Учеба\Bublik\bublik\Simon\WindowsFormsApplication1\bin\Release\Simon v0.9.pdb
+C:\Users\Марат\Documents\Учеба\Bublik\bublik\Simon\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Марат\Documents\Учеба\Bublik\bublik\Simon\WindowsFormsApplication1\obj\Release\simon.Properties.Resources.resources
+C:\Users\Марат\Documents\Учеба\Bublik\bublik\Simon\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Марат\Documents\Учеба\Bublik\bublik\Simon\WindowsFormsApplication1\obj\Release\Simon v0.9.exe
+C:\Users\Марат\Documents\Учеба\Bublik\bublik\Simon\WindowsFormsApplication1\obj\Release\Simon v0.9.pdb
+C:\Users\Марат\Documents\Учеба\Bublik\bublik\Simon\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
