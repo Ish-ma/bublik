@@ -1,0 +1,13 @@
+c:\users\марат\documents\visual studio 2013\Projects\Student List\Student List\bin\Debug\Student List.exe.config
+c:\users\марат\documents\visual studio 2013\Projects\Student List\Student List\obj\Debug\MainWindow.baml
+c:\users\марат\documents\visual studio 2013\Projects\Student List\Student List\obj\Debug\MainWindow.g.cs
+c:\users\марат\documents\visual studio 2013\Projects\Student List\Student List\obj\Debug\App.g.cs
+c:\users\марат\documents\visual studio 2013\Projects\Student List\Student List\obj\Debug\Student List_MarkupCompile.cache
+c:\users\марат\documents\visual studio 2013\Projects\Student List\Student List\obj\Debug\Student List.g.resources
+c:\users\марат\documents\visual studio 2013\Projects\Student List\Student List\obj\Debug\Student_List.Properties.Resources.resources
+c:\users\марат\documents\visual studio 2013\Projects\Student List\Student List\obj\Debug\Student List.csproj.GenerateResource.Cache
+c:\users\марат\documents\visual studio 2013\Projects\Student List\Student List\bin\Debug\Student List.exe
+c:\users\марат\documents\visual studio 2013\Projects\Student List\Student List\bin\Debug\Student List.pdb
+c:\users\марат\documents\visual studio 2013\Projects\Student List\Student List\obj\Debug\Student List.exe
+c:\users\марат\documents\visual studio 2013\Projects\Student List\Student List\obj\Debug\Student List.pdb
+c:\users\марат\documents\visual studio 2013\Projects\Student List\Student List\obj\Debug\Student List.csprojResolveAssemblyReference.cache
